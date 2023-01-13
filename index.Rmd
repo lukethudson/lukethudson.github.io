@@ -1,6 +1,6 @@
 ---
 title: "Tony Le"
-image: "tonyle_profile_photo.jpg"
+image: "Le_Profile_Photo.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/anth0nyhle/"
@@ -10,6 +10,8 @@ links:
     url: "https://github.com/anth0nyhle"
   - label: Email
     url: "anthony.le@utah.edu"
+  - label: CV
+    url: "https://github.com/anth0nyhle/anth0nyhle.github.io/Le_CV_20230113.pdf"
 output:
   postcards::trestles
 ---
@@ -24,6 +26,8 @@ I'm currently a graduate research assistant in the [Lenz Research Group](https:/
 
 I grew up in Spartanburg, South Carolina and completed my BS in Chemistry with a minor in Mathematics at Wofford College in 2015. After graduation, I interned as a research chemist at the E. & J. Gallo Winery Research Laboratory in Modesto, CA. Eventually, my coupled interests in medicine and engineering evolved and moved to Corvallis, OR to complete my MS in Bioengineering with a minor in Robotics at Oregon State University, where I worked on the development of a novel implantable passive differential mechanism for ECRL-to-FDP tendon transfer surgery with Ravi Balasubramanian and Jim Sweeney. In 2020, I was awarded an Oak Ridge Institute for Science and Education (ORISE) Research Fellowship to conduct research in the Orthopaedic Biomechanics Laboratory at the Walter Reed National Military Medical Center in Bethesda, MD. As a research fellow, I worked with clinicians to design experiments to characterize the biomechanical properties of various orthopaedic systems, including the elbow, knee, spine, and foot/ankle, in intact, injured, and repaired cadaveric models to inform surgical treatment strategies. When I'm not in the lab, I enjoy mountain biking, rock climbing, and skiing with his dog and friends.
 
+***
+
 ## Education
 
 **PhD in Biomedical Engineering** | University of Utah | 2025 (expected)
@@ -32,15 +36,20 @@ I grew up in Spartanburg, South Carolina and completed my BS in Chemistry with a
 
 **BS in Chemistry, Minor in Mathematics** | Wofford College | 2015
 
+***
+
 ## Research Experiences
 
 **Orthopaedic Research Laboratory** | Graduate Research Assistant | Oct 2021 - Present
 
 **Walter Read National Military Medical Center** | Musculoskeletal Tissue Biomechanist Research Fellow | Mar 2020 - Sept 2021
 
+
 ## Industry Experinces
 
 **E. & J. Gallo Winery Research Laboratory** | Chemistry Research Intern | Jun - Nov 2015
+
+***
 
 ## Honors & Awards
 
@@ -53,7 +62,9 @@ I grew up in Spartanburg, South Carolina and completed my BS in Chemistry with a
 **Science Communication Fellowship (Declined)** | *Oregon Museum of Science and Industry* | Nov 2018
 
 **Blue Ribbon Poster Award** | *Orthopaedic Research Society* | Aug 2017
-  
+
+
+
 ## Service and Leadership
 
 **Utah BME Graduate Studen Advistory Committee** | Member | 2021 - Present
@@ -68,6 +79,8 @@ I grew up in Spartanburg, South Carolina and completed my BS in Chemistry with a
 
 **OSU Robotics Graduate Student Association** | Member | 2016 - 2020
 
+
+
 ## Volunteering Experinces
 
 **Wasatch Adaptive Sports** | *Salt Lake City, UT* | 2021--Present
@@ -75,6 +88,8 @@ I grew up in Spartanburg, South Carolina and completed my BS in Chemistry with a
 **WeDo Lego Robotics** | *OSU STEM Academy* | 2016--2019
 
 **Makers Club** | *Corvallis-Benton County Public Library* | 2016
+
+
 
 ## News & Press
 
