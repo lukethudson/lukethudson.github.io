@@ -1,0 +1,83 @@
+---
+title: "Tony Le"
+image: "tonyle_profile_photo.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/anth0nyhle/"
+  - label: Twitter
+    url: "https://twitter.com/Anth0nyHLe"
+  - label: GitHub
+    url: "https://github.com/anth0nyhle"
+  - label: Email
+    url: "anthony.le@utah.edu"
+output:
+  postcards::trestles
+---
+ 
+## Hello world! Welcome to my website!
+
+I'm an orthopaedic biomechanist interested in leveraging biomechanics, robotics, data science in orthopaedics to inform surgical treatement methods and improve clinical outcomes. I'm passionate about solving real world problems in medicine and sustainable development through engineering!
+
+I'm currently a graduate research assistant in the [Lenz Research Group](https://medicine.utah.edu/orthopaedics/research/labs/harold-dunn/groups/lenz) at the University of Utah School of Medicine Orthopaedic Research Laboratory pursuing a PhD in Biomedical Engineering focused on foot and ankle orthopaedic biomechanics. My dissertation will be centered around the development of a biorobotic simulator for replicating 3D foot and ankle kinematics and kinetics to evaluate subtalar compensation after ankle fusion and total ankle replacement.
+
+## Background
+
+I grew up in Spartanburg, South Carolina and completed my BS in Chemistry with a minor in Mathematics at Wofford College in 2015. After graduation, I interned as a research chemist at the E. & J. Gallo Winery Research Laboratory in Modesto, CA. Eventually, my coupled interests in medicine and engineering evolved and moved to Corvallis, OR to complete my MS in Bioengineering with a minor in Robotics at Oregon State University, where I worked on the development of a novel implantable passive differential mechanism for ECRL-to-FDP tendon transfer surgery with Ravi Balasubramanian and Jim Sweeney. In 2020, I was awarded an Oak Ridge Institute for Science and Education (ORISE) Research Fellowship to conduct research in the Orthopaedic Biomechanics Laboratory at the Walter Reed National Military Medical Center in Bethesda, MD. As a research fellow, I worked with clinicians to design experiments to characterize the biomechanical properties of various orthopaedic systems, including the elbow, knee, spine, and foot/ankle, in intact, injured, and repaired cadaveric models to inform surgical treatment strategies. When I'm not in the lab, I enjoy mountain biking, rock climbing, and skiing with his dog and friends.
+
+## Education
+
+**PhD in Biomedical Engineering** | University of Utah | 2025 (expected)
+
+**MS in Bioengineering, Minor in Robotics** | Oregon State University | 2020
+
+**BS in Chemistry, Minor in Mathematics** | Wofford College | 2015
+
+## Research Experiences
+
+**Orthopaedic Research Laboratory** | Graduate Research Assistant | Oct 2021 - Present
+
+**Walter Read National Military Medical Center** | Musculoskeletal Tissue Biomechanist Research Fellow | Mar 2020 - Sept 2021
+
+## Industry Experinces
+
+**E. & J. Gallo Winery Research Laboratory** | Chemistry Research Intern | Jun - Nov 2015
+
+## Honors & Awards
+
+**Arthroscopy Journal Award for Basic Science Research Excellence (Runner-Up)** | *Arthroscopy: The Journal of Arthroscopic and Related Surgery* | Jan 2022 
+
+**Dean's Distinguished Graduate Fellowship (Declined)** | *University of California, Davis* | Apr 2021
+
+**Musculoskeletal Tissue Biomechanist Research Fellowship** | *Oak Ridge Institute for Science and Education* | Jan 2020
+
+**Science Communication Fellowship (Declined)** | *Oregon Museum of Science and Industry* | Nov 2018
+
+**Blue Ribbon Poster Award** | *Orthopaedic Research Society* | Aug 2017
+  
+## Service and Leadership
+
+**Utah BME Graduate Studen Advistory Committee** | Member | 2021 - Present
+
+**Utah Graduate Women in Biomedical Engineering** | Member | 2021 - Present
+
+**OSU CBEE Graduate Student Association** | Bioengineering Chairman | 2017 - 2018
+
+**OSU CBEE Graduate Student Association** | Member | 2016 - 2020
+
+**OSU Robotics Graduate Student Association** | Co-Founder & Co-President | 2016 - 2018
+
+**OSU Robotics Graduate Student Association** | Member | 2016 - 2020
+
+## Volunteering Experinces
+
+**Wasatch Adaptive Sports** | *Salt Lake City, UT* | 2021--Present
+
+**WeDo Lego Robotics** | *OSU STEM Academy* | 2016--2019
+
+**Makers Club** | *Corvallis-Benton County Public Library* | 2016
+
+## News & Press
+
+[**OSU College of Engineering**](https://cbee.oregonstate.edu/node/809) | Sept 2019
+
+[**Momentum Magazine**](http://www.journalgraphicsdigitalpublications.com/epubs/OSUALUMNIASSOCIATIONINC/MomentumSpring2019/viewer/desktop/) | Jun 2019
