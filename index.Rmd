@@ -9,7 +9,7 @@ links:
   - label: GitHub
     url: "https://github.com/anth0nyhle"
   - label: Email
-    url: "anthony.le@utah.edu"
+    url: "mailto:anthony.le@utah.edu"
   - label: CV
     url: "https://github.com/anth0nyhle/anth0nyhle.github.io/blob/main/Le_CV_20230113.pdf"
 output:
@@ -18,13 +18,13 @@ output:
  
 ## Hello world! Welcome to my website!
 
-I'm an orthopaedic biomechanist interested in leveraging biomechanics, robotics, data science in orthopaedics to inform surgical treatement methods and improve clinical outcomes. I'm passionate about solving real world problems in medicine and sustainable development through engineering!
+I'm an orthopaedic biomechanist interested in leveraging biomechanics, robotics, data science in orthopaedics to inform surgical treatment methods and improve clinical outcomes. I'm passionate about solving real world problems in medicine and sustainable development through engineering!
 
 I'm currently a graduate research assistant in the [Lenz Research Group](https://medicine.utah.edu/orthopaedics/research/labs/harold-dunn/groups/lenz) at the University of Utah School of Medicine Orthopaedic Research Laboratory pursuing a PhD in Biomedical Engineering focused on foot and ankle orthopaedic biomechanics. My dissertation will be centered around the development of a biorobotic simulator for replicating 3D foot and ankle kinematics and kinetics to evaluate subtalar compensation after ankle fusion and total ankle replacement.
 
 ## Background
 
-I grew up in Spartanburg, South Carolina and completed my BS in Chemistry with a minor in Mathematics at Wofford College in 2015. After graduation, I interned as a research chemist at the E. & J. Gallo Winery Research Laboratory in Modesto, CA. Eventually, my coupled interests in medicine and engineering evolved and moved to Corvallis, OR to complete my MS in Bioengineering with a minor in Robotics at Oregon State University, where I worked on the development of a novel implantable passive differential mechanism for ECRL-to-FDP tendon transfer surgery with Ravi Balasubramanian and Jim Sweeney. In 2020, I was awarded an Oak Ridge Institute for Science and Education (ORISE) Research Fellowship to conduct research in the Orthopaedic Biomechanics Laboratory at the Walter Reed National Military Medical Center in Bethesda, MD. As a research fellow, I worked with clinicians to design experiments to characterize the biomechanical properties of various orthopaedic systems, including the elbow, knee, spine, and foot/ankle, in intact, injured, and repaired cadaveric models to inform surgical treatment strategies. When I'm not in the lab, I enjoy mountain biking, rock climbing, and skiing with his dog and friends.
+I grew up in Spartanburg, South Carolina and completed my BS in Chemistry with a minor in Mathematics at Wofford College in 2015. After graduation, I interned as a research chemist at the E. & J. Gallo Winery Research Laboratory in Modesto, CA. Eventually, my coupled interests in medicine and engineering evolved and moved to Corvallis, OR to complete my MS in Bioengineering with a minor in Robotics at Oregon State University, where I worked on the development of a novel implantable passive differential mechanism for ECRL-to-FDP tendon transfer surgery with Ravi Balasubramanian and Jim Sweeney. In 2020, I was awarded an Oak Ridge Institute for Science and Education (ORISE) Research Fellowship to conduct research in the Orthopaedic Biomechanics Laboratory at the Walter Reed National Military Medical Center in Bethesda, MD. As a research fellow, I worked with clinicians to design experiments to characterize the biomechanical properties of various orthopaedic systems, including the elbow, knee, spine, and foot/ankle, in intact, injured, and repaired cadaveric models to inform surgical treatment strategies. When I'm not in the lab, I enjoy mountain biking, rock climbing, and skiing with my dog and friends.
 
 ***
 
@@ -67,7 +67,7 @@ I grew up in Spartanburg, South Carolina and completed my BS in Chemistry with a
 
 ## Service and Leadership
 
-**Utah BME Graduate Studen Advistory Committee** | Member | 2021 - Present
+**Utah BME Graduate Student Advisory Committee** | Member | 2021 - Present
 
 **Utah Graduate Women in Biomedical Engineering** | Member | 2021 - Present
 
