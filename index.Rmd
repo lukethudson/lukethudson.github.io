@@ -11,7 +11,7 @@ links:
   - label: Email
     url: "anthony.le@utah.edu"
   - label: CV
-    url: "https://github.com/anth0nyhle/anth0nyhle.github.io/Le_CV_20230113.pdf"
+    url: "https://github.com/anth0nyhle/anth0nyhle.github.io/blob/main/Le_CV_20230113.pdf"
 output:
   postcards::trestles
 ---
