@@ -28,7 +28,7 @@ I'm currently a graduate research assistant in the [Lenz Research Group](https:/
 
 I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Applied Mathematics at Wofford College in 2015. After graduation, I interned as a research chemist at the E. & J. Gallo Winery Research Laboratory in Modesto, CA. Eventually, my coupled interests in medicine and engineering evolved and moved to Corvallis, OR to complete my MS in Bioengineering with a minor in Robotics at Oregon State University, where I worked on the development of a novel implantable passive differential mechanism for ECRL-to-FDP tendon transfer surgery with Ravi Balasubramanian and Jim Sweeney. In 2020, I was awarded an Oak Ridge Institute for Science and Education (ORISE) Research Fellowship to conduct research in the Orthopaedic Biomechanics Laboratory at the Walter Reed National Military Medical Center in Bethesda, MD. As a research fellow, I worked with clinicians to design experiments to characterize the biomechanical properties of various orthopaedic systems, including the elbow, knee, spine, and foot/ankle, in intact, injured, and repaired cadaveric models to inform surgical treatment strategies. When I'm not in the lab, I enjoy mountain biking, rock climbing, and skiing with my dog and friends.
 
-***
+******
 
 ## Education
 
@@ -38,7 +38,7 @@ I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Ap
 
 **BS in Chemistry, Minor in Mathematics** | Wofford College | 2015
 
-***
+******
 
 ## Research Experiences
 
@@ -55,7 +55,7 @@ I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Ap
 
 **E. & J. Gallo Winery Research Laboratory** | Chemistry Research Intern | Jun--Nov 2015
 
-***
+******
 
 ## Projects
 
@@ -74,7 +74,7 @@ I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Ap
 
 **Safe Feedback Motion Planning with Unknown Dynamics for Car Model in MATLAB:** Expanded stochastic trajectory optimization with LQR feedback control algorithm for mobile robot motion planning (MATLAB; [Code](https://github.com/tapgar/safe_exploration))
 
-***
+******
 
 ## Honors & Awards
 
