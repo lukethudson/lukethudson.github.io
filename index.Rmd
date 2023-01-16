@@ -20,7 +20,7 @@ output:
  
 ## Hello world! Welcome to my website!
 
-I'm an orthopaedic biomechanist interested in leveraging biomechanics, robotics, and data science in orthopaedics to inform surgical treatment methods and improve clinical outcomes. I'm passionate about solving real world problems in medicine and sustainable development through engineering!
+👋 I'm an orthopaedic biomechanist interested in leveraging biomechanics, robotics, and data science in orthopaedics to inform surgical treatment methods and improve clinical outcomes. I'm passionate about solving real world problems in medicine and sustainable development through engineering!
 
 I'm currently a graduate research assistant in the [Lenz Research Group](https://medicine.utah.edu/orthopaedics/research/labs/harold-dunn/groups/lenz) of the Orthopaedic Research Laboratory at the University of Utah School of Medicine pursuing a PhD in Biomedical Engineering focused on foot and ankle orthopaedic biomechanics. My dissertation aims to apply machine learning and model predictive control on a robotic simulator for replicating 3D foot and ankle kinematics and kinetics to evaluate subtalar joint compensations after ankle fusion and total ankle replacement.
 
@@ -30,7 +30,7 @@ I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Ap
 
 ******
 
-## Education
+## Education 🎓
 
 **PhD in Biomedical Engineering** | University of Utah | 2025 (expected)
 
@@ -40,7 +40,7 @@ I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Ap
 
 ******
 
-## Experiences
+## Experiences 👨🏻‍🔬
 
 **Utah Orthopaedic Research Laboratory** | Graduate Research Assistant | Jan 2022--Present
 
@@ -54,7 +54,7 @@ I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Ap
 
 ******
 
-## Projects
+## Projects 👨🏻‍💻
 
 **Monte Carlo Simulation of the Monte Hall Problem:** Implemented Monte Carlo simulation in a game show given choice of three doors, a car behind one and goats behind others (Julia; [Code](https://github.com/anth0nyhle/OSUCoursework/tree/main/CHE599-IntroDataScience/hw1))
 
@@ -73,7 +73,7 @@ I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Ap
 
 ******
 
-## Honors & Awards
+## Honors & Awards 🏅
 
 **Arthroscopy Journal Award for Basic Science Research Excellence (Runner-Up)** | Arthroscopy: The Journal of Arthroscopic and Related Surgery | Jan 2022
 
@@ -87,7 +87,7 @@ I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Ap
 
 
 
-## Service and Leadership
+## Service and Leadership 🤓
 
 **American Society of Biomechanics - Utah Student Chapter** | Vice President/Treasurer | Aug 2022--Present
 
@@ -109,7 +109,7 @@ I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Ap
 
 
 
-## Volunteering Experinces
+## Volunteering Experinces 🌱
 
 **Wasatch Adaptive Sports** | Salt Lake City, UT | 2021--Present
 
@@ -119,7 +119,7 @@ I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Ap
 
 
 
-## News & Press
+## News & Press 📰
 
 [**OSU College of Engineering**](https://cbee.oregonstate.edu/node/809) | Sept 2019
 
