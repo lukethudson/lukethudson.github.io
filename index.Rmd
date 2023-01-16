@@ -22,7 +22,7 @@ output:
 
 I'm an orthopaedic biomechanist interested in leveraging biomechanics, robotics, and data science in orthopaedics to inform surgical treatment methods and improve clinical outcomes. I'm passionate about solving real world problems in medicine and sustainable development through engineering!
 
-I'm currently a graduate research assistant in the [Lenz Research Group](https://medicine.utah.edu/orthopaedics/research/labs/harold-dunn/groups/lenz) of the Orthopaedic Research Laboratory at the University of Utah School of Medicine pursuing a PhD in Biomedical Engineering focused on foot and ankle orthopaedic biomechanics. My dissertation will be centered around the development of a robotic simulator for replicating 3D foot and ankle kinematics and kinetics to evaluate subtalar joint compensations after ankle fusion and total ankle replacement.
+I'm currently a graduate research assistant in the [Lenz Research Group](https://medicine.utah.edu/orthopaedics/research/labs/harold-dunn/groups/lenz) of the Orthopaedic Research Laboratory at the University of Utah School of Medicine pursuing a PhD in Biomedical Engineering focused on foot and ankle orthopaedic biomechanics. My dissertation aims to apply machine learning and model predictive control on a robotic simulator for replicating 3D foot and ankle kinematics and kinetics to evaluate subtalar joint compensations after ankle fusion and total ankle replacement.
 
 ## Background
 
@@ -40,7 +40,7 @@ I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Ap
 
 ******
 
-## Research Experiences
+## Experiences
 
 **Utah Orthopaedic Research Laboratory** | Graduate Research Assistant | Jan 2022--Present
 
@@ -49,9 +49,6 @@ I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Ap
 **Walter Reed National Military Medical Center** | Musculoskeletal Tissue Biomechanist Research Fellow | Mar 2020--Sept 2021
 
 **Robotic and Human Control Systems Laboratory** | Graduate Research Assistant | Sept 2016--Feb 2020
-
-
-## Industry Experiences
 
 **E. & J. Gallo Winery Research Laboratory** | Chemistry Research Intern | Jun--Nov 2015
 
