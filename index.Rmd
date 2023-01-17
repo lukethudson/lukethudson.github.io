@@ -11,7 +11,7 @@ links:
   - label: Email
     url: "mailto:anthony.le@utah.edu"
   - label: CV
-    url: "https://github.com/anth0nyhle/anth0nyhle.github.io/blob/main/Le_CV_20230113.pdf"
+    url: "https://github.com/anth0nyhle/anth0nyhle.github.io/blob/main/Le_CV_20230117.pdf"
   # - label: Publications
   #   url: "https://scholar.google.com/citations?user=achfAjYAAAAJ&hl=en"
 output:
@@ -23,6 +23,8 @@ output:
 👋 I'm an orthopaedic biomechanist interested in leveraging biomechanics, robotics, and data science in orthopaedics to inform surgical treatment methods and improve clinical outcomes. I'm passionate about solving real world problems in medicine and sustainable development through engineering!
 
 I'm currently a graduate research assistant in the [Lenz Research Group](https://medicine.utah.edu/orthopaedics/research/labs/harold-dunn/groups/lenz) of the Orthopaedic Research Laboratory at the University of Utah School of Medicine pursuing a PhD in Biomedical Engineering focused on foot and ankle orthopaedic biomechanics. My dissertation aims to apply machine learning and model predictive control on a robotic simulator for replicating 3D foot and ankle kinematics and kinetics to evaluate subtalar joint compensations after ankle fusion and total ankle replacement.
+
+******
 
 ## Background
 
@@ -85,7 +87,7 @@ I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Ap
 
 **Blue Ribbon Poster Award** | Orthopaedic Research Society | Aug 2017
 
-
+******
 
 ## Service & Leadership 🤓
 
@@ -107,7 +109,7 @@ I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Ap
 
 <!-- **OSU Robotics Graduate Student Association** | Member | 2016--2020 -->
 
-
+******
 
 ## Volunteering Experinces 🌱
 
@@ -117,7 +119,7 @@ I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Ap
 
 **Makers Club** | Corvallis-Benton County Public Library | 2016
 
-
+******
 
 ## News & Press 📰
 
