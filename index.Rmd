@@ -11,7 +11,7 @@ links:
   - label: Email
     url: "mailto:anthony.le@utah.edu"
   - label: CV
-    url: "https://github.com/anth0nyhle/anth0nyhle.github.io/blob/main/Le_CV_20230117.pdf"
+    url: "https://anthonyhle.com/cv.html"
   # - label: Publications
   #   url: "https://scholar.google.com/citations?user=achfAjYAAAAJ&hl=en"
 output:
