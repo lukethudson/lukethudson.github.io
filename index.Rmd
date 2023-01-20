@@ -58,6 +58,8 @@ I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Ap
 
 ## Projects 👨🏻‍💻
 
+**Finite Element Model of Biphasic Contact in the Tibiotalar Joint:** Developed finite element models that represent the tibiotalar joint with different articular morphologies to investigate the biphasic-on-biphasic contact in healthy and progressively osteoarthritic conditions (FeBio; [Models](https://github.com/anth0nyhle/TibiotalarFEModel))
+
 **Monte Carlo Simulation of the Monte Hall Problem:** Implemented Monte Carlo simulation in a game show given choice of three doors, a car behind one and goats behind others (Julia; [Code](https://github.com/anth0nyhle/OSUCoursework/tree/main/CHE599-IntroDataScience/hw1))
 
 **Stability Analysis of a Nonlinear Model Predictive Controller for Functional Electrical Stimulation:** Examined NMPC stability using Lyapunov Theory; tuned PID controller for leg extension in musculoskeletal model (MATLAB; [Code](https://github.com/anth0nyhle/MuscleForceController))
