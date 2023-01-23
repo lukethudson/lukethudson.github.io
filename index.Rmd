@@ -11,7 +11,7 @@ links:
   - label: Email
     url: "mailto:anthony.le@utah.edu"
   - label: CV
-    url: "https://github.com/anth0nyhle/anth0nyhle.github.io/blob/main/Le_CV_20230117.pdf"
+    url: "https://anthonyhle.com/cv.html"
   # - label: Publications
   #   url: "https://scholar.google.com/citations?user=achfAjYAAAAJ&hl=en"
 output:
@@ -32,7 +32,7 @@ My overall career goal is to leverage engineering and data science to solve real
 
 ## Background
 
-I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Applied Mathematics at Wofford College in 2015. After graduation, I interned as a research chemist at the E. & J. Gallo Winery Research Laboratory in Modesto, CA. Eventually, my coupled interests in medicine and engineering evolved and moved to Corvallis, OR to complete my MS in Bioengineering with a minor in Robotics at Oregon State University, where I worked on the development of a novel implantable passive differential mechanism for ECRL-to-FDP tendon transfer surgery with Ravi Balasubramanian and Jim Sweeney. In 2020, I was awarded an Oak Ridge Institute for Science and Education (ORISE) Research Fellowship to conduct research in the Orthopaedic Biomechanics Laboratory at the Walter Reed National Military Medical Center in Bethesda, MD. As a research fellow, I worked with clinicians to design experiments to characterize the biomechanical properties of various orthopaedic systems, including the elbow, knee, spine, and foot/ankle, in intact, injured, and repaired cadaveric models to inform surgical treatment strategies. When I'm not in the lab, I enjoy mountain biking, rock climbing, and skiing with my dog and friends.
+I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Applied Mathematics at Wofford College in 2015. After graduation, I interned as a research chemist at the E. & J. Gallo Winery Research Laboratory in Modesto, CA. Eventually, my coupled interests in medicine and engineering evolved and moved to Corvallis, OR to complete my MS in Bioengineering with a minor in Robotics at Oregon State University, where I worked on the development of a novel implantable passive differential mechanism for ECRL-to-FDP tendon transfer surgery with Ravi Balasubramanian and Jim Sweeney. In 2020, I was awarded an Oak Ridge Institute for Science and Education (ORISE) Research Fellowship to conduct research in the Orthopaedic Biomechanics Laboratory at the Walter Reed National Military Medical Center in Bethesda, MD. As a research fellow, I worked with clinicians to design experiments to characterize the biomechanical properties of various joints, including the elbow, knee, spine, and foot/ankle, in intact, injured, and repaired cadaveric models to inform surgical treatment strategies. When I'm not in the lab, I enjoy mountain biking, rock climbing, and skiing with my dog and friends.
 
 ******
 
@@ -61,6 +61,8 @@ I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Ap
 ******
 
 ## Projects 👨🏻‍💻
+
+**Finite Element Model of Biphasic Contact in the Tibiotalar Joint:** Developed finite element models that represent the tibiotalar joint with different articular morphologies to investigate the biphasic-on-biphasic contact in healthy and progressively osteoarthritic conditions (FeBio; [Models](https://github.com/anth0nyhle/TibiotalarFEModel))
 
 **Monte Carlo Simulation of the Monte Hall Problem:** Implemented Monte Carlo simulation in a game show given choice of three doors, a car behind one and goats behind others (Julia; [Code](https://github.com/anth0nyhle/OSUCoursework/tree/main/CHE599-IntroDataScience/hw1))
 
