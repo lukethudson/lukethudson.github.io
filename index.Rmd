@@ -1,6 +1,6 @@
 ---
 title: "Tony Le"
-image: "Le_Profile_Photo.jpg"
+image: "./media/Le_Profile_Photo.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/anth0nyhle/"
@@ -13,7 +13,7 @@ links:
   # - label: CV
   #   url: "https://anthonyhle.com/cv.html"
   - label: CV
-    url: "https://anth0nyhle.github.io/docs/Le_CV_20230411.pdf"
+    url: "https://anth0nyhle.github.io/documents/Le_CV_20230411.pdf"
   # - label: Publications
   #   url: "https://scholar.google.com/citations?user=achfAjYAAAAJ&hl=en"
 output:
