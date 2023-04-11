@@ -1,6 +1,6 @@
 ---
 title: "Tony Le"
-image: "./media/Le_Profile_Photo.jpg"
+image: "./images/Le_Profile_Photo.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/anth0nyhle/"
