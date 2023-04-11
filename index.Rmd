@@ -10,8 +10,10 @@ links:
     url: "https://github.com/anth0nyhle"
   - label: Email
     url: "mailto:anthony.le@utah.edu"
+  # - label: CV
+  #   url: "https://anthonyhle.com/cv.html"
   - label: CV
-    url: "https://anthonyhle.com/cv.html"
+    url: "https://anth0nyhle.github.io/docs/Le_CV_20230411.pdf"
   # - label: Publications
   #   url: "https://scholar.google.com/citations?user=achfAjYAAAAJ&hl=en"
 output:
