@@ -28,7 +28,7 @@ output:
 
 I'm currently a graduate research assistant in the [Lenz Research Group](https://medicine.utah.edu/orthopaedics/research/labs/harold-dunn/groups/lenz) of the Orthopaedic Research Laboratory at the University of Utah School of Medicine, pursuing a PhD in Biomedical Engineering focused on foot and ankle orthopaedic biomechanics. My dissertation aims to apply machine learning and model predictive control on a robotic simulator for replicating foot and ankle biomechanics in a cadaveric model and evaluate individual joint compensation motions in the hind- and midfoot due to musculoskeletal pathologies, injuries, and/or surgical interventions.
 
-My overall career goal is to leverage engineering and data science to solve real-world problems and make positive impacts in society, especially in disadvantaged communities. Areas of interest include health technology, sustainable development, and climate technology.
+My overall career goal is to leverage engineering and data science to solve real-world problems and make positive impacts in society, especially in disadvantaged communities. Areas of interest include robotics, health technology, sustainable development, and clean technology.
 
 ******
 
