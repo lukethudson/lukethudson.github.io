@@ -16,6 +16,8 @@ links:
     url: "https://anth0nyhle.github.io/documents/Le_CV_20230601.pdf"
   # - label: Publications
   #   url: "https://scholar.google.com/citations?user=achfAjYAAAAJ&hl=en"
+  - label: Projects
+    url: "https://anthonyhle.com/projects.html"
 output:
   postcards::trestles
 ---
