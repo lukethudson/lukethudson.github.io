@@ -13,7 +13,7 @@ links:
   # - label: CV
   #   url: "https://anthonyhle.com/cv.html"
   - label: CV
-    url: "https://anth0nyhle.github.io/documents/Le_CV_20230601.pdf"
+    url: "https://anth0nyhle.github.io/documents/Le_CV_20231221.pdf"
   # - label: Publications
   #   url: "https://scholar.google.com/citations?user=achfAjYAAAAJ&hl=en"
   - label: Projects
@@ -28,7 +28,7 @@ output:
 
 <!-- I'm passionate about solving real world problems in medicine and sustainable development through engineering! -->
 
-I'm currently a graduate research assistant in the [Lenz Research Group](https://medicine.utah.edu/orthopaedics/research/labs/harold-dunn/groups/lenz) of the Orthopaedic Research Laboratory at the University of Utah School of Medicine pursuing a PhD in Biomedical Engineering focused on foot and ankle orthopaedic biomechanics. My dissertation work aims to apply robotics, machine learning, and model predictive control to characterize the individual joint mechanics of the foot and ankle in a cadaveric model for improving our understanding of how they adapt, compensate, and interact with each other with injury, surgical intervention, abnormality, or implant design.
+I'm a PhD candidate and graduate research assistant in the [Lenz Research Group](https://medicine.utah.edu/orthopaedics/research/labs/harold-dunn/groups/lenz) in the Orthopaedic Research Laboratory at the University of Utah School of Medicine pursuing a PhD in Biomedical Engineering focused on foot and ankle orthopaedic biomechanics. My dissertation work aims to apply robotics, machine learning, and model predictive control to characterize the individual hindfoot joint mechanics in a cadaveric model for improving our understanding of how they compensate and interact in response to injury, surgical interventions, abnormality, or implant design.
 
 My overall career goal is to leverage engineering and data science to solve real-world problems and make positive impacts in society, especially in disadvantaged communities. Areas of interest include robotics, health technology, sustainable development, and climate technology.
 
@@ -36,7 +36,7 @@ My overall career goal is to leverage engineering and data science to solve real
 
 ## Background
 
-I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Applied Mathematics at Wofford College in 2015. After graduation, I interned as a research chemist at the E. & J. Gallo Winery Research Laboratory in Modesto, CA. Eventually, my coupled interests in medicine and engineering evolved and moved to Corvallis, OR to complete my MS in Bioengineering with a minor in Robotics at Oregon State University, where I worked on the development of a novel implantable passive differential mechanism for ECRL-to-FDP tendon transfer surgery with Ravi Balasubramanian and Jim Sweeney. In 2020, I was awarded an Oak Ridge Institute for Science and Education (ORISE) Research Fellowship to conduct research in the Orthopaedic Biomechanics Laboratory at the Walter Reed National Military Medical Center in Bethesda, MD. As a research fellow, I worked with clinicians to design experiments for characterizing the biomechanical properties of various joints, including the elbow, knee, spine, and ankle, in intact, injured, and repaired cadaveric models to inform surgical treatment strategies. When I'm not in the lab, I enjoy mountain biking, rock climbing, and skiing with my dog and friends.
+I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Applied Mathematics at Wofford College in 2015. After graduation, I interned as a research chemist at the E. & J. Gallo Winery Research Laboratory in Modesto, CA. Eventually, my coupled interests in medicine and engineering evolved and moved to Corvallis, OR to complete my MS in Bioengineering with a minor in Robotics at Oregon State University, where I worked on the development of a novel implantable passive differential mechanism for upper extremity tendon transfer surgery with [Ravi Balasubramanian](https://engineering.oregonstate.edu/people/ravi-balasubramanian) and Jim Sweeney. In 2020, I was awarded an Oak Ridge Institute for Science and Education (ORISE) Research Fellowship to conduct research in the Orthopaedic Biomechanics Laboratory at the Walter Reed National Military Medical Center in Bethesda, MD. As a research fellow, I worked with surgeons to design biomechanical cadaveric studies across multiple orthopaedic specialties, including sports medicine, spine, and trauma. When I'm not in the lab, I enjoy mountain biking, rock climbing, and skiing with my dog and friends.
 
 ******
 
@@ -68,12 +68,13 @@ I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Ap
 
 ## Projects 👨🏻‍💻
 
+**Mobile Air Quality Monitoring in the Salt Lake Valley** Visualized air quality data collected from research-grade pollutant sensors on light-rail cars and e-buses (courtesy of the Department of Atmospheric Sciences at the University of Utah) in conjunction with socioeconomic data by ZCTA to underscore the disparities in air quality exposure and the environmental injustice for those living in the west side of the Salt Lake Valley (Python;[Code](https://github.com/anth0nyhle/MobileAirQualitySLV))
+
 **Finite Element Model of Biphasic Contact in the Tibiotalar Joint:** Developed finite element models that represent the tibiotalar joint with different articular morphologies to investigate the biphasic-on-biphasic contact in healthy and progressively osteoarthritic conditions (FeBio; [Models](https://github.com/anth0nyhle/TibiotalarFEModel))
 
 **Monte Carlo Simulation of the Monte Hall Problem:** Implemented Monte Carlo simulation in a game show given choice of three doors, a car behind one and goats behind others (Julia; [Code](https://github.com/anth0nyhle/OSUCoursework/tree/main/CHE599-IntroDataScience/hw1))
 
 **Stability Analysis of a Nonlinear Model Predictive Controller for Functional Electrical Stimulation:** Examined NMPC stability using Lyapunov Theory; tuned PID controller for leg extension in musculoskeletal model (MATLAB; [Code](https://github.com/anth0nyhle/MuscleForceController))
-
 
 **Implementation and Examination of a Mathematical Model for Predicting Muscle Force and Fatigue:** Utilized MATLAB Ode45 to model isometric muscle force; performed sensitivity analysis on physiological parameters in force and fatigue prediction (MATLAB; [Code](https://github.com/anth0nyhle/MuscleForceModel))
 
@@ -111,7 +112,7 @@ I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Ap
 
 <!-- **American Society of Biomechanics - Utah Student Chapter** | Member | Jan 2022--Present -->
 
-**Utah BME Graduate Student Advisory Committee** | Co-Teasurer | Aug 2021--Present
+**Utah BME Graduate Student Advisory Committee** | EDI Co-Chair, Co-Treasurer | Aug 2021--Present
 
 <!-- **Utah BME Graduate Student Advisory Committee** | Member | Jan 2022--Present -->
 
@@ -129,7 +130,9 @@ I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Ap
 
 ## Volunteering Experinces 🌱
 
-**Wasatch Adaptive Sports** | Salt Lake City, UT | 2021--Present
+**TEDxSaltLakeCity** | Organizing Committee | 2023--Present
+
+**Wasatch Adaptive Sports** | Snowbird, UT | 2021--Present
 
 **WeDo Lego Robotics** | OSU STEM Academy | 2016--2019
 
