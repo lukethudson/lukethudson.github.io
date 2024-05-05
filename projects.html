@@ -27,10 +27,11 @@
             box-shadow: 0 0 10px rgba(0,0,0,0.2);
             margin-bottom: 20px;
             padding: 20px;
+            height: auto;
         }
         .tile img {
             width: 400px;
-            height: 200px;
+            height: auto;
             margin-right: 20px;
         }
         .tile-content {
@@ -42,24 +43,36 @@
         .tile-content p {
             margin-bottom: 0;
         }
+        .tile-link {
+            text-decoration: none; /* Removes the underline from the link */
+            color: inherit; /* Makes the link color the same as the text color */
+        }
+        .tile-link:hover .tile {
+            box-shadow: 0 0 20px rgba(0,0,0,0.4); /* Adds a hover effect to the tile */
+        }
     </style>
 </head>
 <body>
+    <h1>Projects</h1>
     <div class="container">
-        <div class="tile">
-            <img src="images/Robotic_Cadaveric_Simulation_Plantarflexed.png" alt="Project 1">
-            <div class="tile-content">
-                <h2>Mobile Air Quality Monitoring in the Salt Lake Valley</h2>
-                <p>Visualized air quality data collected from research-grade pollutant sensors on light-rail cars and e-buses (courtesy of the Department of Atmospheric Sciences at the University of Utah) in conjunction with socioeconomic data by ZCTA to underscore the disparities in air quality exposure and the environmental injustice for those living in the west side of the Salt Lake Valley</p>
+        <a href="https://github.com/anth0nyhle" class="tile-link">
+            <div class="tile">
+                <img src="images/Robotic_Cadaveric_Simulation_Plantarflexed.png" alt="Project 1">
+                <div class="tile-content">
+                    <h2>Mobile Air Quality Monitoring in the Salt Lake Valley</h2>
+                    <p>Visualized air quality data collected from research-grade pollutant sensors on light-rail cars and e-buses (courtesy of the Department of Atmospheric Sciences at the University of Utah) in conjunction with socioeconomic data by ZCTA to underscore the disparities in air quality exposure and the environmental injustice for those living in the west side of the Salt Lake Valley</p>
+                </div>
             </div>
-        </div>
-        <div class="tile">
-            <img src="images/Robotic_Cadaveric_Simulation_Plantarflexed.png" alt="Project 2">
-            <div class="tile-content">
-                <h2>Finite Element Model of Biphasic Contact in the Tibiotalar Joint</h2>
-                <p>Developed finite element models that represent the tibiotalar joint with different articular morphologies to investigate the biphasic-on-biphasic contact in healthy and progressively osteoarthritic conditions</p>
+        </a>
+        <a href="https://github.com/anth0nyhle" class="tile-link">
+            <div class="tile">
+                <img src="images/Robotic_Cadaveric_Simulation_Plantarflexed.png" alt="Project 2">
+                <div class="tile-content">
+                    <h2>Finite Element Model of Biphasic Contact in the Tibiotalar Joint</h2>
+                    <p>Developed finite element models that represent the tibiotalar joint with different articular morphologies to investigate the biphasic-on-biphasic contact in healthy and progressively osteoarthritic conditions</p>
+                </div>
             </div>
-        </div>
+        </a>
         <!-- Add more tiles as needed -->
     </div>
 </body>
