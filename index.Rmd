@@ -14,8 +14,8 @@ links:
   #   url: "https://anthonyhle.com/cv.html"
   - label: CV
     url: "https://anth0nyhle.github.io/documents/Le_CV_20231221.pdf"
-  # - label: Publications
-  #   url: "https://scholar.google.com/citations?user=achfAjYAAAAJ&hl=en"
+  - label: Publications
+    url: "https://anthonyhle.com/publications.html"
   - label: Projects
     url: "https://anthonyhle.com/projects.html"
 output:

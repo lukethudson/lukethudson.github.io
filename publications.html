@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Publications Layout</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+            font-family: 'Roboto Slab', serif;
+        }
+        h1 {
+            text-align: left;
+            margin-top: 25px;
+            margin-bottom: 25px;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 50px;
+        }
+        .tile {
+            display: flex;
+            align-items: center;
+            background-color: #ffffff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+            margin-bottom: 20px;
+            padding: 20px;
+            height: auto;
+            border-radius: 10px;
+        }
+        .tile img {
+            width: 300px;
+            height: auto;
+            margin-right: 20px;
+        }
+        .tile-content {
+            text-align: left;
+        }
+        .tile-content h2 {
+            margin-top: 0;
+            font-size: medium;
+        }
+        .tile-content p {
+            margin-bottom: 0;
+            font-size: smaller;
+        }
+        .tile-link {
+            text-decoration: none; 
+            color: inherit;
+        }
+        .tile-link:hover .tile {
+            box-shadow: 0 0 20px rgba(0,0,0,0.4);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Projects</h1>
+        <a href="https://github.com/anth0nyhle" class="tile-link">
+            <div class="tile">
+                <img src="images/projects/Robotic_Cadaveric_Simulation_Plantarflexed.png" alt="Pub 1">
+                <div class="tile-content">
+                    <h2>Passive Ankle and Hindfoot Joint Kinematics Within a Robot-Driven Tibial Movement Envelope</h2>
+                    <p>Explored the application of various learning algorithms to predict trial outcomes using transcripts from the Old Bailey proceedings</p>
+                </div>
+            </div>
+        </a>
+    </div>
+</body>
+</html>
