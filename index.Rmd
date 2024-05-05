@@ -22,9 +22,9 @@ output:
   postcards::trestles
 ---
  
-## Hello world! Welcome to my website!
+## Hello world! 👋
 
-👋 I'm an orthopaedic biomechanist interested in using biomechanics, robotics, and data science in orthopaedics to inform surgical treatment methods and improve clinical outcomes.
+I'm an orthopaedic biomechanist interested in using biomechanics, robotics, and data science in orthopaedics to inform surgical treatment methods and improve clinical outcomes.
 
 <!-- I'm passionate about solving real world problems in medicine and sustainable development through engineering! -->
 
@@ -40,7 +40,7 @@ My overall career goal is to leverage robotics and machine learning to solve rea
 
 I'm interested in working as a research/data/machine learning scientist in medical robotics, health technology, sustainable development, or climate technology.
 
-******
+<!-- ****** -->
 
 #### Programming Skills 👨🏻‍💻️
 
