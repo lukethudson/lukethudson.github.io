@@ -7,13 +7,13 @@
         body {
             margin: 0;
             padding: 0;
-            background-color: #fff;
+            background-color: #ffffff;
             font-family: 'Open Sans', sans-serif;
         }
         h1 {
             text-align: left;
-            margin-top: 50px;
-            margin-bottom: 50px;
+            margin-top: 25px;
+            margin-bottom: 25px;
         }
         .container {
             max-width: 1000px;
@@ -23,7 +23,7 @@
         .tile {
             display: flex;
             align-items: center;
-            background-color: #f4f4f4;
+            background-color: #ffffff;
             box-shadow: 0 0 10px rgba(0,0,0,0.2);
             margin-bottom: 20px;
             padding: 20px;
@@ -31,7 +31,7 @@
             border-radius: 10px;
         }
         .tile img {
-            width: 250px;
+            width: 300px;
             height: auto;
             margin-right: 20px;
         }
@@ -47,17 +47,27 @@
             font-size: smaller;
         }
         .tile-link {
-            text-decoration: none; /* Removes the underline from the link */
-            color: inherit; /* Makes the link color the same as the text color */
+            text-decoration: none; 
+            color: inherit;
         }
         .tile-link:hover .tile {
-            box-shadow: 0 0 20px rgba(0,0,0,0.4); /* Adds a hover effect to the tile */
+            box-shadow: 0 0 20px rgba(0,0,0,0.4);
         }
     </style>
 </head>
+
 <body>
     <div class="container">
         <h1>Projects</h1>
+        <a href="https://github.com/anth0nyhle" class="tile-link">
+            <div class="tile">
+                <img src="images/Robotic_Cadaveric_Simulation_Plantarflexed.png" alt="Project 1">
+                <div class="tile-content">
+                    <h2>Towards an Autonomous Surgical Retraction System via Uncertainty Quantification</h2>
+                    <p></p>
+                </div>
+            </div>
+        </a>
         <a href="https://github.com/anth0nyhle" class="tile-link">
             <div class="tile">
                 <img src="images/Robotic_Cadaveric_Simulation_Plantarflexed.png" alt="Project 1">
@@ -76,7 +86,69 @@
                 </div>
             </div>
         </a>
-        <!-- Add more tiles as needed -->
+        <a href="https://github.com/anth0nyhle" class="tile-link">
+            <div class="tile">
+                <img src="images/Robotic_Cadaveric_Simulation_Plantarflexed.png" alt="Project 2">
+                <div class="tile-content">
+                    <h2>Monte Carlo Simulation of the Monte Hall Problem</h2>
+                    <p>Implemented Monte Carlo simulation in a game show given choice of three doors, a car behind one and goats behind others</p>
+                </div>
+            </div>
+        </a>
+        <a href="https://github.com/anth0nyhle" class="tile-link">
+            <div class="tile">
+                <img src="images/Robotic_Cadaveric_Simulation_Plantarflexed.png" alt="Project 2">
+                <div class="tile-content">
+                    <h2>Stability Analysis of a Nonlinear Model Predictive Controller for Functional Electrical Stimulation</h2>
+                    <p>Examined NMPC stability using Lyapunov Theory; tuned PID controller for leg extension in musculoskeletal model</p>
+                </div>
+            </div>
+        </a>
+        <a href="https://github.com/anth0nyhle" class="tile-link">
+            <div class="tile">
+                <img src="images/Robotic_Cadaveric_Simulation_Plantarflexed.png" alt="Project 2">
+                <div class="tile-content">
+                    <h2>Implementation and Examination of a Mathematical Model for Predicting Muscle Force and Fatigue</h2>
+                    <p>Utilized MATLAB Ode45 to model isometric muscle force; performed sensitivity analysis on physiological parameters in force and fatigue prediction</p>
+                </div>
+            </div>
+        </a>
+        <a href="https://github.com/anth0nyhle" class="tile-link">
+            <div class="tile">
+                <img src="images/Robotic_Cadaveric_Simulation_Plantarflexed.png" alt="Project 2">
+                <div class="tile-content">
+                    <h2>Implementation of Convolutions Neural Networks for Iceberg Classification in Satellite Radar Data</h2>
+                    <p>Built CNN to identify if a remotely sensed object was a ship or iceberg in Kaggle competition</p>
+                </div>
+            </div>
+        </a>
+        <a href="https://github.com/anth0nyhle" class="tile-link">
+            <div class="tile">
+                <img src="images/Robotic_Cadaveric_Simulation_Plantarflexed.png" alt="Project 2">
+                <div class="tile-content">
+                    <h2>Semi-Autonomous Mobile Robot for Jenga Gameplay</h2>
+                    <p>Designed and built a mobile robot with 5 DOF manipulator -- 3D printed parts, DC motors, LIDAR, IMUs, Raspberry Pi, and microcontrollers; derived inverse kinematics for block picking; STOMP algorithm</p>
+                </div>
+            </div>
+        </a>
+        <a href="https://github.com/anth0nyhle" class="tile-link">
+            <div class="tile">
+                <img src="images/Robotic_Cadaveric_Simulation_Plantarflexed.png" alt="Project 2">
+                <div class="tile-content">
+                    <h2>Trajectory Optimization of Human Arm Reaching Model in OpenSim</h2>
+                    <p>Executed iLQR algorithm for object reaching task in biomechanical human arm model moving in sagittal plane</p>
+                </div>
+            </div>
+        </a>
+        <a href="https://github.com/anth0nyhle" class="tile-link">
+            <div class="tile">
+                <img src="images/Robotic_Cadaveric_Simulation_Plantarflexed.png" alt="Project 2">
+                <div class="tile-content">
+                    <h2>Safe Feedback Motion Planning with Unknown Dynamics for Car Model in MATLAB</h2>
+                    <p>Expanded stochastic trajectory optimization with LQR feedback control algorithm for mobile robot motion planning</p>
+                </div>
+            </div>
+        </a>
     </div>
 </body>
 </html>
