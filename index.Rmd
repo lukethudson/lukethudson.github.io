@@ -28,9 +28,34 @@ output:
 
 <!-- I'm passionate about solving real world problems in medicine and sustainable development through engineering! -->
 
-I'm a PhD candidate and graduate research assistant in the [Lenz Research Group](https://medicine.utah.edu/orthopaedics/research/labs/harold-dunn/groups/lenz) in the Orthopaedic Research Laboratory at the University of Utah School of Medicine pursuing a PhD in Biomedical Engineering focused on foot and ankle orthopaedic biomechanics. My dissertation work aims to apply robotics, machine learning, and model predictive control to characterize the individual hindfoot joint mechanics in a cadaveric model for improving our understanding of how they compensate and interact in response to injury, surgical interventions, abnormality, or implant design.
+I'm a PhD candidate and graduate research assistant in the [Lenz Research Group](https://medicine.utah.edu/orthopaedics/research/labs/harold-dunn/groups/lenz) in the Orthopaedic Research Laboratory at the University of Utah School of Medicine pursuing a PhD in Biomedical Engineering focused on foot and ankle orthopaedic biomechanics. My dissertation work aims to apply robotics, machine learning, and model predictive control to characterize the individual joint mechanics of the ankle and hindfoot in a cadaveric model for improving our understanding of how they compensate and interact in response to injury, surgical interventions, abnormality, or implant design.
 
-My overall career goal is to leverage engineering and data science to solve real-world problems and make positive impacts in society, especially in disadvantaged communities. Areas of interest include medical robotics, health technology, sustainable development, and climate technology.
+I'm also pursuing a Graduate Certificate in Deep Learning in AI & Robotics in the Kahlert School of Computing at the University of Utah to enhance my skills in robotics and machine learning through coursework in machine learning, deep learning, data visualization, and medical robotics.
+
+******
+
+## Career Objective 🚀
+
+My overall career goal is to leverage robotics and machine learning to solve real-world problems and make positive impacts in society, especially in disadvantaged communities.
+
+I'm interested in working as a research/data/machine learning scientist in medical robotics, health technology, sustainable development, or climate technology.
+
+******
+
+#### Programming Skills 👨🏻‍💻️
+
+Proficient: Python | MATLAB | R | Git | LabView | Latex  
+Familiar: Julia | C/C++ | HTML/CSS | JavaScript
+
+#### Tools & Software 🛠️
+
+Programming: VS Code | Jupyter | GitHub | Anaconda | RStudio  
+Musculoskeletal Modeling: OpenSim  
+Robotics: ROS | Gazebo | RViz | MoveIt | RoboDK  
+FEA: FeBio  
+CAD: SolidWorks | Fusion 360  
+3D Printing: Stratasys GrabCAD | Markforged Eiger | Formlabs PreForm  
+Word Processing: Overleaf | MS Word
 
 ******
 
@@ -72,7 +97,7 @@ I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Ap
 
 <!-- ## Projects 👨🏻‍💻 -->
 
-<!-- **Mobile Air Quality Monitoring in the Salt Lake Valley:** Visualized air quality data collected from research-grade pollutant sensors on light-rail cars and e-buses (courtesy of the Department of Atmospheric Sciences at the University of Utah) in conjunction with socioeconomic data by ZCTA to underscore the disparities in air quality exposure and the environmental injustice for those living in the west side of the Salt Lake Valley (Python;[Code](https://github.com/anth0nyhle/MobileAirQualitySLV)) -->
+<!-- **Mobile Air Quality Monitoring in the Salt Lake Valley:** Visualized air quality data collected from research-grade pollutant sensors on light-rail cars and e-buses (courtesy of the Department of Atmospheric Sciences at the University of Utah) in conjunction with socioeconomic data by ZCTA to underscore the disparities in air quality exposure and the environmental injustice for those living in the west side of the Salt Lake Valley (Python: [Code](https://github.com/anth0nyhle/MobileAirQualitySLV)) -->
 
 <!-- **Finite Element Model of Biphasic Contact in the Tibiotalar Joint:** Developed finite element models that represent the tibiotalar joint with different articular morphologies to investigate the biphasic-on-biphasic contact in healthy and progressively osteoarthritic conditions (FeBio; [Models](https://github.com/anth0nyhle/TibiotalarFEModel)) -->
 
