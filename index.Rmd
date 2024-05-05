@@ -66,27 +66,31 @@ I grew up in Spartanburg, SC and completed my BS in Chemistry with a minor in Ap
 
 ******
 
-## Projects 👨🏻‍💻
+<!-- ## Recent Publications 📚 -->
 
-**Mobile Air Quality Monitoring in the Salt Lake Valley:** Visualized air quality data collected from research-grade pollutant sensors on light-rail cars and e-buses (courtesy of the Department of Atmospheric Sciences at the University of Utah) in conjunction with socioeconomic data by ZCTA to underscore the disparities in air quality exposure and the environmental injustice for those living in the west side of the Salt Lake Valley (Python;[Code](https://github.com/anth0nyhle/MobileAirQualitySLV))
+<!-- 1.  -->
 
-**Finite Element Model of Biphasic Contact in the Tibiotalar Joint:** Developed finite element models that represent the tibiotalar joint with different articular morphologies to investigate the biphasic-on-biphasic contact in healthy and progressively osteoarthritic conditions (FeBio; [Models](https://github.com/anth0nyhle/TibiotalarFEModel))
+<!-- ## Projects 👨🏻‍💻 -->
 
-**Monte Carlo Simulation of the Monte Hall Problem:** Implemented Monte Carlo simulation in a game show given choice of three doors, a car behind one and goats behind others (Julia; [Code](https://github.com/anth0nyhle/OSUCoursework/tree/main/CHE599-IntroDataScience/hw1))
+<!-- **Mobile Air Quality Monitoring in the Salt Lake Valley:** Visualized air quality data collected from research-grade pollutant sensors on light-rail cars and e-buses (courtesy of the Department of Atmospheric Sciences at the University of Utah) in conjunction with socioeconomic data by ZCTA to underscore the disparities in air quality exposure and the environmental injustice for those living in the west side of the Salt Lake Valley (Python;[Code](https://github.com/anth0nyhle/MobileAirQualitySLV)) -->
 
-**Stability Analysis of a Nonlinear Model Predictive Controller for Functional Electrical Stimulation:** Examined NMPC stability using Lyapunov Theory; tuned PID controller for leg extension in musculoskeletal model (MATLAB; [Code](https://github.com/anth0nyhle/MuscleForceController))
+<!-- **Finite Element Model of Biphasic Contact in the Tibiotalar Joint:** Developed finite element models that represent the tibiotalar joint with different articular morphologies to investigate the biphasic-on-biphasic contact in healthy and progressively osteoarthritic conditions (FeBio; [Models](https://github.com/anth0nyhle/TibiotalarFEModel)) -->
 
-**Implementation and Examination of a Mathematical Model for Predicting Muscle Force and Fatigue:** Utilized MATLAB Ode45 to model isometric muscle force; performed sensitivity analysis on physiological parameters in force and fatigue prediction (MATLAB; [Code](https://github.com/anth0nyhle/MuscleForceModel))
+<!-- **Monte Carlo Simulation of the Monte Hall Problem:** Implemented Monte Carlo simulation in a game show given choice of three doors, a car behind one and goats behind others (Julia; [Code](https://github.com/anth0nyhle/OSUCoursework/tree/main/CHE599-IntroDataScience/hw1)) -->
 
-**Implementation of Convolutions Neural Networks for Iceberg Classification in Satellite Radar Data:** Built CNN to identify if a remotely sensed object was a ship or iceberg in Kaggle competition (Python; [Code](https://github.com/anth0nyhle/IcebergClassifier))
+<!-- **Stability Analysis of a Nonlinear Model Predictive Controller for Functional Electrical Stimulation:** Examined NMPC stability using Lyapunov Theory; tuned PID controller for leg extension in musculoskeletal model (MATLAB; [Code](https://github.com/anth0nyhle/MuscleForceController)) -->
 
-**Semi-Autonomous Mobile Robot for Jenga Gameplay:** Constructed mobile robot with 5 DOF manipulator -- 3D printed parts, DC motors, LIDAR, IMUs, Raspberry Pi, and microcontrollers; derived inverse kinematics for block picking; STOMP algorithm (Python, C++; [Code](https://github.com/anth0nyhle/OSUCoursework/tree/main/ROB521-AppliedRobotics/jengabot_project))
+<!-- **Implementation and Examination of a Mathematical Model for Predicting Muscle Force and Fatigue:** Utilized MATLAB Ode45 to model isometric muscle force; performed sensitivity analysis on physiological parameters in force and fatigue prediction (MATLAB; [Code](https://github.com/anth0nyhle/MuscleForceModel)) -->
 
-**Trajectory Optimization of Human Arm Reaching Model in OpenSim:** Executed iLQR algorithm for object reaching task in biomechanical human arm model moving in sagittal plane (MATLAB; [Code](https://github.com/tapgar/iLQR_test))
+<!-- **Implementation of Convolutions Neural Networks for Iceberg Classification in Satellite Radar Data:** Built CNN to identify if a remotely sensed object was a ship or iceberg in Kaggle competition (Python; [Code](https://github.com/anth0nyhle/IcebergClassifier)) -->
 
-**Safe Feedback Motion Planning with Unknown Dynamics for Car Model in MATLAB:** Expanded stochastic trajectory optimization with LQR feedback control algorithm for mobile robot motion planning (MATLAB; [Code](https://github.com/tapgar/safe_exploration))
+<!-- **Semi-Autonomous Mobile Robot for Jenga Gameplay:** Constructed mobile robot with 5 DOF manipulator -- 3D printed parts, DC motors, LIDAR, IMUs, Raspberry Pi, and microcontrollers; derived inverse kinematics for block picking; STOMP algorithm (Python, C++; [Code](https://github.com/anth0nyhle/OSUCoursework/tree/main/ROB521-AppliedRobotics/jengabot_project)) -->
 
-******
+<!-- **Trajectory Optimization of Human Arm Reaching Model in OpenSim:** Executed iLQR algorithm for object reaching task in biomechanical human arm model moving in sagittal plane (MATLAB; [Code](https://github.com/tapgar/iLQR_test)) -->
+
+<!-- **Safe Feedback Motion Planning with Unknown Dynamics for Car Model in MATLAB:** Expanded stochastic trajectory optimization with LQR feedback control algorithm for mobile robot motion planning (MATLAB; [Code](https://github.com/tapgar/safe_exploration)) -->
+
+<!-- ****** -->
 
 ## Honors & Awards 🏅
 
