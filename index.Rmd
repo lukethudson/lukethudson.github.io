@@ -13,7 +13,7 @@ links:
   # - label: CV
   #   url: "https://anthonyhle.com/cv.html"
   - label: CV
-    url: "https://anth0nyhle.github.io/documents/cv/Le_CV_20231221.pdf"
+    url: "https://anth0nyhle.github.io/documents/cv/Le_CV_20240518.pdf"
   - label: Publications
     url: "https://anthonyhle.com/publications.html"
   - label: Projects
