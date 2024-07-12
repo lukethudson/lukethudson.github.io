@@ -24,11 +24,13 @@ output:
  
 ## Hello world! 👋
 
-I am an orthopaedic biomechanist leveraging biomechanics, robotics, and data science in orthopaedics to inform surgical treatment methods and improve clinical outcomes.
+I am a biomedical engineer interested in leveraging biomechanics, robotics, and data science in orthopaedics to inform surgical treatment strategies and improve clinical outcomes.
 
 <!-- I'm passionate about solving real world problems in medicine and sustainable development through engineering! -->
 
-I am a PhD candidate and graduate research assistant in the [Lenz Research Group](https://medicine.utah.edu/orthopaedics/research/labs/harold-dunn/groups/lenz) of the Orthopaedic Research Laboratory at the University of Utah School of Medicine pursuing a PhD in Biomedical Engineering focused on foot and ankle orthopaedic biomechanics. My dissertation research aims to develop a robotic simulator for studying the kinematic mechanisms and interactions of the individual ankle and hindfoot joints and how various surgical strategies impact their underlying functionality. This interdisciplinary work combines biomechanics, robotics, controls, and machine learning for a unique approach to understanding the form and function of the foot and ankle complex.
+I am a graduate research assistant in the [Lenz Research Group](https://medicine.utah.edu/orthopaedics/research/labs/harold-dunn/groups/lenz) of the Orthopaedic Research Laboratory at the University of Utah School of Medicine pursuing a PhD in Biomedical Engineering focused on foot and ankle orthopaedic biomechanics.
+
+My dissertation research aims to develop a robotic simulator for studying the kinematic mechanisms and interactions of the individual ankle and hindfoot joints and how different arthrodeses impact their underlying functionality. This work combines biomechanics, robotics, controls, and machine learning for a unique interdisciplinary approach to understanding the form and function of the foot and ankle complex.
 
 I am also pursuing a Graduate Certificate in Deep Learning in AI & Robotics in the Kahlert School of Computing at the University of Utah to enhance my skills in robotics and machine learning through coursework in machine learning, deep learning, data visualization, and medical robotics.
 
