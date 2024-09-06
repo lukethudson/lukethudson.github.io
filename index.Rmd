@@ -30,7 +30,7 @@ I am a biomedical engineer interested in leveraging biomechanics, robotics, and 
 
 I am a graduate research assistant in the [Lenz Research Group](https://medicine.utah.edu/orthopaedics/research/labs/harold-dunn/groups/lenz) of the Orthopaedic Research Laboratory at the University of Utah School of Medicine pursuing a PhD in Biomedical Engineering focused on foot and ankle orthopaedic biomechanics.
 
-My dissertation research aims to develop a robotic simulator for studying the kinematic mechanisms and interactions of the individual ankle and hindfoot joints and how different arthrodeses impact their underlying functionality. This work combines biomechanics, robotics, controls, and machine learning for a unique interdisciplinary approach to understanding the form and function of the foot and ankle complex.
+My dissertation research aims to develop a robotic simulator for studying the kinematic mechanisms and interactions of the individual ankle and hindfoot joints and how different arthrodeses impact their underlying functionality. This work combines biomechanics, robotics, controls, and machine learning for a uniquely interdisciplinary approach to understanding the form and function of the foot and ankle complex.
 
 I am also pursuing a Graduate Certificate in Deep Learning in AI & Robotics in the Kahlert School of Computing at the University of Utah to enhance my skills in robotics and machine learning through coursework in machine learning, deep learning, data visualization, and medical robotics.
 
@@ -38,9 +38,9 @@ I am also pursuing a Graduate Certificate in Deep Learning in AI & Robotics in t
 
 ## Career Objective 🚀
 
-My overall career goal is to utilize robotics and machine learning to solve real-world problems and make positive impacts in society, especially in disadvantaged communities.
+My overall career goal is to utilize data science and robotics to solve real-world problems and make positive impacts in society, especially in disadvantaged and underrepresented communities.
 
-I am interested in working as a research/data/machine learning scientist in medical robotics, health technology, sustainability, or climate technology.
+I am interested in working as a data scientist/machine learning engineer in medical robotics, health technology, sustainability, or climate technology.
 
 <!-- ****** -->
 
@@ -116,7 +116,7 @@ When I am not designing hardware or troubleshooting code, I am out mountain biki
 
 ******
 
-## Service & Leadership 🤓
+## Leadership & Service 🤓
 
 **American Society of Biomechanics - Utah Student Chapter** | Vice President/Treasurer | Aug 2022--Present
 
