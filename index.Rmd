@@ -38,7 +38,7 @@ I am also pursuing a Graduate Certificate in Deep Learning in AI & Robotics in t
 
 ## Career Objective 🚀
 
-My overall career goal is to utilize data science and robotics to solve real-world problems and make positive impacts in society, especially in disadvantaged and underrepresented communities.
+My overall career goal is to utilize robotics and data science to solve real-world problems and make positive impacts in society, especially in disadvantaged and underrepresented communities.
 
 I am interested in working as a data scientist/machine learning engineer in medical robotics, health technology, sustainability, or climate technology.
 
