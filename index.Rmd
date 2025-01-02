@@ -24,49 +24,49 @@ output:
  
 ## Hello world! 👋
 
-I am a biomedical engineer interested in leveraging biomechanics, robotics, and data science in orthopaedics to inform surgical treatment strategies and improve clinical outcomes.
+I am a biomedical engineer focused on using biomechanics, robotics, and data science to improve surgical treatment strategies and clinical outcomes in orthopaedics.
 
-<!-- I'm passionate about solving real world problems in medicine and sustainable development through engineering! -->
+As a PhD candidate in Biomedical Engineering at the University of Utah, I conduct research in the [Lenz Research Group](https://medicine.utah.edu/orthopaedics/research/labs/harold-dunn/groups/lenz) within the Orthopaedic Research Laboratory at the University of Utah Orthopaedic Center, specializing in foot and ankle biomechanics.
 
-I am a graduate research assistant in the [Lenz Research Group](https://medicine.utah.edu/orthopaedics/research/labs/harold-dunn/groups/lenz) of the Orthopaedic Research Laboratory at the University of Utah School of Medicine pursuing a PhD in Biomedical Engineering focused on foot and ankle orthopaedic biomechanics.
+My dissertation aims to develop a robotic simulator to study the kinematic mechanisms of the ankle and hindfoot joints and how different arthrodeses affect their functionality. This work combines biomechanics, robotics, controls, and machine learning to provide a unique interdisciplinary approach to understanding foot and ankle function.
 
-My dissertation research aims to develop a robotic simulator for studying the kinematic mechanisms and interactions of the individual ankle and hindfoot joints and how different arthrodeses impact their underlying functionality. This work combines biomechanics, robotics, controls, and machine learning for a uniquely interdisciplinary approach to understanding the form and function of the foot and ankle complex.
-
-I am also pursuing a Graduate Certificate in Deep Learning in AI & Robotics in the Kahlert School of Computing at the University of Utah to enhance my skills in robotics and machine learning through coursework in machine learning, deep learning, data visualization, and medical robotics.
+I am also pursuing a Graduate Certificate in Deep Learning in AI & Robotics in the Kahlert School of Computing at the University of Utah to further develop my expertise in robotics and machine learning through courses in machine learning, deep learning, data visualization, and medical robotics.
 
 ******
 
 ## Career Objective 🚀
 
-My overall career goal is to utilize robotics and data science to solve real-world problems and make positive impacts in society, especially in disadvantaged and underrepresented communities.
+My career goal is to leverage robotics and data science to solve real-world problems and make a positive impact, particularly in disadvantaged and underrepresented communities.
 
-I am interested in working as a data scientist, robotics engineer, or clinical development/research engineer in medical robotics, medical devices, or health technology.
+I am interested in roles as a data scientist, robotics engineer, or clinical development/research engineer within medical robotics, medical devices, or health technology.
 
 <!-- ****** -->
 
-#### Programming Skills 👨🏻‍💻️
+#### Programming Languages 👨🏻‍💻️
 
-**Proficient:** Python | MATLAB | R | LabView  
-**Familiar:** Julia | C/C++ | HTML/CSS | JavaScript | Tableau  
+**Proficient:** Python, MATLAB, R, LabView  
+**Familiar:** SQL, Julia, C/C++, HTML/CSS, JavaScript  
 
 #### Tools & Software 🛠️
 
-**Programming:** VS Code | Jupyter | GitHub | Anaconda | RStudio  
-**Version Control:** Git | GitHub  
+**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, ggplot2, Tableau, Power BI  
+**Machine Learning Frameworks:** PyTorch, TensorFlow/Keras, scikit-learn, statsmodels  
+**Statistical Techniques:** Descriptive Statistics, Hypothesis Testing, Regression Analysis, Time-Series Analysis, Bayesian Inference, Statistical Parametric Mapping, Resampling Methods, Design of Experiments, Correlation  
+**Development Tools:** VS Code, Jupyter Notebook, Anaconda, RStudio, Git/GitHub, Linux, OOP  
+**Robotics:** ROS/ROS2, Gazebo, RViz, MoveIt2, RoboDK  
+**3D Motion Capture:** OptiTrack, Optotrak Certus, Vicon  
 **Musculoskeletal Modeling:** OpenSim  
-**Robotics:** ROS | Gazebo | RViz | MoveIt | RoboDK  
-**FEA:** FeBio  
-**CAD:** SolidWorks | Fusion 360  
-**3D Printing:** Stratasys GrabCAD | Markforged Eiger | Formlabs PreForm  
-**Word Processing:** Overleaf | MS Word | Latex
+**Finite Element Analysis:** FeBio  
+**CAD Tools:** SolidWorks, Fusion 360  
+**Functional Expertise:** Experimental Design, Scientific Communication, Technical Writing, Cross-Functional Collaboration, Project Management, Research & Development
 
 ******
 
 ## Background
 
-I grew up in Spartanburg, SC and earned my BS in Chemistry with a minor in Applied Mathematics at Wofford College in 2015. Following graduation, I interned as a research chemist at the E. & J. Gallo Winery Research Laboratory in Modesto, CA. Eventually, my coupled interests in medicine and engineering evolved and I moved to Corvallis, OR to complete my MS in Bioengineering with a minor in Robotics at Oregon State University. Under the guidance of [Ravi Balasubramanian](https://engineering.oregonstate.edu/people/ravi-balasubramanian) and Jim Sweeney, I computationally modeled the kinematics and dynamics of a novel implantable passive differential mechanism for upper extremity tendon transfer surgery.
+I grew up in Spartanburg, SC and earned my BS in Chemistry with a minor in Applied Mathematics from Wofford College in 2015. After graduation, I interned as a research chemist at the E. & J. Gallo Winery Research Laboratory in Modesto, CA. My growing interests in medicine and engineering led me to Corvallis, OR, where I completed my MS in Bioengineering with a minor in Robotics at Oregon State University. Under the guidance of [Ravi Balasubramanian](https://engineering.oregonstate.edu/people/ravi-balasubramanian) and Jim Sweeney, I developed data-driven biomechanical models for simulating the kinematics and dynamics of novel implantable passive mechanisms for upper extremity tendon transfer surgery.
 
-After completing my MS, I was awarded an Oak Ridge Institute for Science and Education (ORISE) Research Fellowship to conduct research in the Orthopaedic Biomechanics Laboratory at the Walter Reed National Military Medical Center in Bethesda, MD. As a research fellow, I collaborated with surgeons to design biomechanical cadaveric studies across multiple orthopaedic specialties, including sports medicine, spine, and trauma.
+After completing my MS, I received an Oak Ridge Institute for Science and Education (ORISE) Research Fellowship to conduct research in the Orthopaedic Biomechanics Laboratory at the Walter Reed National Military Medical Center in Bethesda, MD. As a research fellow, I collaborated with surgeons to design biomechanical cadaveric studies across multiple orthopaedic specialties, including sports medicine, spine, and trauma.
 
 When I am not designing hardware or troubleshooting code, I am out mountain biking, rock climbing, skiing, or hiking with my dog and friends.
 
@@ -100,11 +100,11 @@ When I am not designing hardware or troubleshooting code, I am out mountain biki
 
 ## Honors & Awards 🏅
 
-**David Winter Young Investigator Award (Finalist)** | International Society of Biomechanics | May 2023
+**David Winter Young Investigator Award Finalist** | International Society of Biomechanics | May 2023
 
 **Best Doctoral Poster Presentation Award** | Rocky Mountain American Society of Biomechanics | Apr 2023
 
-**Arthroscopy Journal Award for Basic Science Research Excellence (Runner-Up)** | Arthroscopy: The Journal of Arthroscopic and Related Surgery | Jan 2022
+**Arthroscopy Journal Award for Basic Science Research Excellence Runner-Up** | Arthroscopy: The Journal of Arthroscopic and Related Surgery | Jan 2022
 
 **Dean's Distinguished Graduate Fellowship (Declined)** | University of California, Davis | Apr 2021
 
