@@ -26,7 +26,7 @@ output:
 
 I am a biomedical engineer focused on using biomechanics, robotics, and data science to improve surgical treatment strategies and clinical outcomes in orthopaedics.
 
-As a PhD candidate in Biomedical Engineering at the University of Utah, I conduct research in the [Lenz Research Group](https://medicine.utah.edu/orthopaedics/research/labs/harold-dunn/groups/lenz) within the Orthopaedic Research Laboratory at the University of Utah Orthopaedic Center, specializing in foot and ankle biomechanics.
+As a PhD candidate in Biomedical Engineering at the University of Utah, I conduct research in the Foot & Ankle Mechanics and Morphology (FAMM) Lab at the University of Utah, specializing in foot and ankle biomechanics.
 
 My dissertation aims to develop a robotic simulator to study the kinematic mechanisms of the ankle and hindfoot joints and how different arthrodeses affect their functionality. This work combines biomechanics, robotics, controls, and machine learning to provide a unique interdisciplinary approach to understanding foot and ankle function.
 
